@@ -1,0 +1,16 @@
+data{
+	[0]:{
+		"analytically":"html"
+		"starlinks":"https://baozimh.org/"
+		"splicing":"https://baozimh.org/"
+		"comiclocation":"div.pb-unit-md.pt-unit-xs"
+		comicsname:"img"
+		"comicsimg":"img"
+		"comicsurl":"a"
+		"comicsatt":{
+				"comicname":"alt"
+				"comicimg":"src"
+				"comicurl":"href"
+				}
+		}
+	}
