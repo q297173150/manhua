@@ -1,9 +1,10 @@
 [
   {
     "websitename": "baozi",
-    "content": {
-      "url": "https://tw.baozimh.com/classify",
-      "title": "有谁知道该怎么驯服这只大狼吗！？",
+    "websiteurl":"https://tw.baozimh.com/"
+    "updetelist": {
+      "address":"index-recommend-items",
+      "fulladdress": "有谁知道该怎么驯服这只大狼吗！？",
       "jianjie": "111111111111111"
     }
   },
