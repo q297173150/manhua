@@ -9,8 +9,16 @@
       "addressname":"最近更新",
       "addresscard":".comics-card",
       "comiclist": ".comics-card amp-img[src*='cover']:not([src*='default'])",
-      "comiclistproperty":"src";
-      "jianjie": "111111111111111"
+      "comiclistproperty":"src"，
+      "comiclisttitletitle":".comics-card .comics-card__title h3",
+      "comiclisttitleproperty": "",
+      "":"",
+       "":"",
+       "":"",
+       "":"",
+       "":"",
+       "":"",
+       "":"",
     }
   }
 
