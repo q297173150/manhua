@@ -5,8 +5,8 @@
     "updetelist": {
       "addressurl":"https://tw.baozimh.com/",
       "address":".index-recommend-items",
-      "addresstitle":".catalog-title",
-      "addressname":"最近更新",
+      "subaddresstitle":".catalog-title",
+      "subaddresstext":"最近更新",
       "addresscard":".comics-card",
       "comiclist":".comics-card amp-img[src*='cover']:not([src*='default'])",
       "comiclistproperty":"src",
