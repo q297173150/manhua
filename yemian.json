@@ -13,7 +13,9 @@
       "comiclisttitletitle":".comics-card .comics-card__title h3",
       "comiclisttitleproperty": "",
       "latestupdates":".comics-card__info small.tags",
-      "latestupdatesproperty":""
+      "latestupdatesproperty":"",
+      "switchurl":".comics-card .comics-card__poster",
+      "switchurlproperty":"href"
     }
   }
 
