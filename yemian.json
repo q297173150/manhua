@@ -11,7 +11,10 @@
       "comiclist":".comics-card amp-img[src*='cover']:not([src*='default'])",
       "comiclistproperty":"src",
       "comiclisttitletitle":".comics-card .comics-card__title h3",
-      "comiclisttitleproperty": ""
+      "comiclisttitleproperty": "",
+      "latestupdates":".comics-card__info small.tags",
+      "latestupdatesproperty":"",
+      "":""
     }
   }
 
